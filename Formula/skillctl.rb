@@ -1,7 +1,7 @@
 class Skillctl < Formula
   desc "Manage and install third-party Agent Skills"
   homepage "https://github.com/es2737/skillctl"
-  url "https://github.com/es2737/skillctl/archive/v0.1.0.tar.gz"
+  url "https://github.com/es2737/skillctl/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "f504fab679ef01d533dbcabc0566461c407e171d670b123f16759e5aa88842e5"
   license "MIT"
 
